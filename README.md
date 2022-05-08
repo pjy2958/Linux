@@ -17,7 +17,7 @@
 - 각각의 Was에 다른 app을 deploy 하고 Web을 통해 접근한다.
 - apache Document를 이용하여 index.html을 변경하여 각 app에 접근한다.
 
-<iframe width="1276" height="718" src="https://www.youtube.com/embed/RgaOvXo5XMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="600" src="https://www.youtube.com/embed/RgaOvXo5XMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## WebLogic
 
@@ -27,7 +27,7 @@
 - DAS, MS의 설치 방법 및 기동 방법을 설명한다
 - MS에 app을 deploy한다.
 
-<iframe width="1276" height="718" src="https://www.youtube.com/embed/wo5SD4BZPHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="600" src="https://www.youtube.com/embed/wo5SD4BZPHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Google Cloud
 
@@ -37,4 +37,4 @@
 - 방화벽 해제 방법을 설명한다.
 - Google Cloud로 실행시킨 가상머신 내에서 Web-Was 연결을 시행한다.
 
-<iframe width="1276" height="718" src="https://www.youtube.com/embed/BibHDlDEKfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="600" src="https://www.youtube.com/embed/BibHDlDEKfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
